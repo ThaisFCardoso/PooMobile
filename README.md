@@ -24,3 +24,7 @@ Este projeto demonstra os conceitos de POO em Dart através de duas hierarquias 
 ```bash
 cd empresa
 dart teste_empresa.dart
+
+### Animais:
+cd animais
+dart teste_animais.dart
