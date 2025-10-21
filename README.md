@@ -19,12 +19,14 @@ Este projeto demonstra os conceitos de POO em Dart através de duas hierarquias 
 - **Zoologico**: Gerencia jaulas com diferentes animais
 
 ## 🚀 Como executar
+```bash
+## Animais:
+cd animais
+dart teste_animais.dart
 
-### Empresa:
+
+## Empresa:
 ```bash
 cd empresa
 dart teste_empresa.dart
 
-### Animais:
-cd animais
-dart teste_animais.dart
